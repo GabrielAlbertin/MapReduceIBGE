@@ -1,6 +1,6 @@
-# MapReduce IBGE
+# MapReduce IBGE 2022
 
-#Sobre o projeto
+# Sobre o projeto
 
 O projeto foi desenvolvido para a disciplina de Armazenamento e Processamento Massivo e Distribuído de Dados, utilizando dados do IBGE do estado de São Paulo. Com o modelo MapReduce, buscamos as seguintes informações:
 
