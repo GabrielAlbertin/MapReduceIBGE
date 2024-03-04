@@ -10,6 +10,7 @@ O projeto foi desenvolvido para a disciplina de Armazenamento e Processamento Ma
 
 # Tecnologias utilizadas
 Python 3
+
 Google Colab
 
 # Autor
